@@ -1,0 +1,17 @@
+{
+  "name": "api-cache",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/app.ts"
+  },
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "puppeteer": "^15.5.0",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
